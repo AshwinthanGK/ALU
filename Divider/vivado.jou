@@ -1,0 +1,39 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Thu Jan 29 18:46:01 2026
+# Process ID         : 21480
+# Current directory  : C:/Users/gkash/Verilog files/Divider
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent19540 C:\Users\gkash\Verilog files\Divider\Divider.xpr
+# Log file           : C:/Users/gkash/Verilog files/Divider/vivado.log
+# Journal file       : C:/Users/gkash/Verilog files/Divider\vivado.jou
+# Running On         : Ashwins_Zenbook
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 7 7735U with Radeon Graphics         
+# CPU Frequency      : 2695 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 16372 MB
+# Swap memory        : 6362 MB
+# Total Virtual      : 22734 MB
+# Available Virtual  : 4442 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/gkash/Verilog files/Divider/Divider.xpr}
+file mkdir C:/Users/gkash/Verilog files/Divider/Divider.srcs/sources_1/new
+file mkdir C:/Users/gkash/Verilog files/Divider/Divider.srcs/sources_1/new
+file mkdir C:/Users/gkash/Verilog files/Divider/Divider.srcs/sources_1/new
+file mkdir C:/Users/gkash/Verilog files/Divider/Divider.srcs/sources_1/new
+file mkdir C:/Users/gkash/Verilog files/Divider/Divider.srcs/sources_1/new
+file mkdir C:/Users/gkash/Verilog files/Divider/Divider.srcs/sources_1/new
+file mkdir {C:/Users/gkash/Verilog files/Divider/Divider.srcs/sources_1/new}
+close [ open {C:/Users/gkash/Verilog files/Divider/Divider.srcs/sources_1/new/PU.v} w ]
+add_files {{C:/Users/gkash/Verilog files/Divider/Divider.srcs/sources_1/new/PU.v}}
+update_compile_order -fileset sources_1
+add_files -norecurse {{C:/Users/gkash/Verilog files/FA with 2 HA/FA with 2 HA.srcs/sources_1/new/half_adder.v} {C:/Users/gkash/Verilog files/FA with 2 HA/FA with 2 HA.srcs/sources_1/new/full_adder.v}}
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
