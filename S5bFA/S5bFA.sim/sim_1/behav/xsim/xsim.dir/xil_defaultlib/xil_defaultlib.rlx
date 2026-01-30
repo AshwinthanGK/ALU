@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Users/gkash/Verilog files/FA with 2 HA/FA with 2 HA.srcs/sources_1/new/full_adder.v,1768454887,verilog,,C:/Users/gkash/Verilog files/FA with 2 HA/FA with 2 HA.srcs/sources_1/new/half_adder.v,,full_adder,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/gkash/Verilog files/FA with 2 HA/FA with 2 HA.srcs/sources_1/new/half_adder.v,1768454402,verilog,,C:/Users/gkash/Verilog files/S5bFA/S5bFA.srcs/sim_1/new/TB_FBFA.v,,half_adder,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/gkash/Verilog files/S5bFA/S5bFA.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/Users/gkash/Verilog files/S5bFA/S5bFA.srcs/sim_1/new/TB_FBFA.v,1768900425,verilog,,C:/Users/gkash/Verilog files/S5bFA/S5bFA.srcs/sim_1/new/tb.v,,tb_S5BFA,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+,,,,,,,,,,,,,,
+C:/Users/gkash/Verilog files/S5bFA/S5bFA.srcs/sources_1/new/FBFA.v,1768900404,verilog,,C:/Users/gkash/Verilog files/FA with 2 HA/FA with 2 HA.srcs/sources_1/new/full_adder.v,,S8BFA,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
