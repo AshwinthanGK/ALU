@@ -1,7 +1,0 @@
-Running: xsim.dir/tb_S5BFA_behav/xsimk.exe -simmode gui -wdb tb_S5BFA_behav.wdb -simrunnum 0 -socket 52070
-Design successfully loaded
-Design Loading Memory Usage: 10800 KB (Peak: 10800 KB)
-Design Loading CPU Usage: 62 ms
-Simulation completed
-Simulation Memory Usage: 11664 KB (Peak: 11664 KB)
-Simulation CPU Usage: 108 ms

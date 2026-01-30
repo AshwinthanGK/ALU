@@ -1,7 +1,0 @@
-Time resolution is 1 ps
-Time=0 | A= 0 | B= 0 | P=  0
-Time=10000 | A= 3 | B= 5 | P= 15
-Time=20000 | A= 7 | B= 2 | P= 14
-Time=30000 | A= 9 | B= 4 | P= 36
-Time=40000 | A=15 | B=15 | P=225
-$finish called at time : 50 ns : File "C:/Users/gkash/Verilog files/2_bit_multiplier/2_bit_multiplier.srcs/sim_1/new/mult_sim.v" Line 62
