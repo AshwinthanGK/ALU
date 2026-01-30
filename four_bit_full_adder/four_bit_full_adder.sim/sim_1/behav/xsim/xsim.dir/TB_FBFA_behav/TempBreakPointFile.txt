@@ -1,2 +1,0 @@
-Breakpoint File Version 1.0
-32,true,"C:/Users/gkash/Verilog files/four_bit_full_adder/four_bit_full_adder.srcs/sources_1/new/FBFA.v"
