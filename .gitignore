@@ -1,0 +1,18 @@
+# Vivado / FPGA junk
+*.jou
+*.log
+*.str
+*.rpt
+*.wdb
+*.vds
+*.vdi
+
+*.runs/
+*.sim/
+*.cache/
+*.hw/
+*.ip_user_files/
+
+# OS
+.DS_Store
+Thumbs.db
